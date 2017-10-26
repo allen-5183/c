@@ -1,0 +1,19 @@
+﻿1>------ 已開始全部重建: 專案: ch3, 組態: Debug Win32 ------
+1>stdafx.cpp
+1>d:\workspace\c&c++\vs2017\c\ch3\stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+1>d:\workspace\c&c++\vs2017\c\ch3\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+1>d:\workspace\c&c++\vs2017\c\ch3\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+1>main.c
+1>ex3_8.c
+1>ex3_7.c
+1>ex3_6.c
+1>ex3_5.c
+1>ex3_4.c
+1>ex3_3.c
+1>ex3_2.c
+1>ex3_1.c
+1>正在產生程式碼...
+1>ch3.vcxproj -> D:\workspace\c&c++\vs2017\c\Debug\ch3.exe
+1>ch3.vcxproj -> D:\workspace\c&c++\vs2017\c\Debug\ch3.pdb (Partial PDB)
+1>專案 "ch3.vcxproj" 建置完成。
+========== 全部重建: 1 成功、0 失敗、 0 略過 ==========

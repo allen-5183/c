@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "c.h"
-
+//加入註解
 //定義方法 
 void ex3_1();
 void ex3_2();
